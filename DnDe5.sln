@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDe5.Web", "DnDe5.Web\DnDe5.Web.csproj", "{601E6E84-9578-47F6-8FA2-B8E8474BF60D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{23183402-A4AC-4789-983C-E234D7862FAA}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601E6E84-9578-47F6-8FA2-B8E8474BF60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601E6E84-9578-47F6-8FA2-B8E8474BF60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601E6E84-9578-47F6-8FA2-B8E8474BF60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601E6E84-9578-47F6-8FA2-B8E8474BF60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
